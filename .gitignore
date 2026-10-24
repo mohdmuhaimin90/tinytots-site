@@ -1,0 +1,7 @@
+# logs / local artefacts
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+*.tar.gz
